@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "54ff40da-566e-4b08-aced-2230b7e9688d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 73.66 67.31)
+		(size 46.99 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7fbf48b3-2680-4e07-bcbc-751342c8124f")
+		(property "Sheetname" "inside"
+			(at 73.66 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "inside.kicad_sch"
+			(at 73.66 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ballin balloon bayload"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 66.04)
+		(size 43.18 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d4880f22-f4f3-4b01-9383-7f9a14f68fe4")
+		(property "Sheetname" "outside"
+			(at 149.86 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "outside.kicad_sch"
+			(at 149.86 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ballin balloon bayload"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
