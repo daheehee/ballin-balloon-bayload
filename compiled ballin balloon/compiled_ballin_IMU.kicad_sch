@@ -5897,7 +5897,7 @@
 			(uuid "e887079e-4c8b-4d90-81a2-36066ea3ceca")
 		)
 		(instances
-			(project ""
+			(project "compiled ballin balloon"
 				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/fd9a6934-9ed4-42ef-b5fc-bc3cf5bbd3bc"
 					(reference "R9")
 					(unit 1)
@@ -6720,7 +6720,7 @@
 			(uuid "9f2a3a64-36f1-46e9-86be-4ca8b000dad0")
 		)
 		(instances
-			(project ""
+			(project "compiled ballin balloon"
 				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/fd9a6934-9ed4-42ef-b5fc-bc3cf5bbd3bc"
 					(reference "R13")
 					(unit 1)

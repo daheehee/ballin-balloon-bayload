@@ -30,7 +30,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ballin_control.kicad_sch"
+		(property "Sheetfile" "compiled_ballin_control.kicad_sch"
 			(at 60.96 88.2146 0)
 			(effects
 				(font
@@ -72,7 +72,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ballin_communication.kicad_sch"
+		(property "Sheetfile" "compiled_ballin_communication.kicad_sch"
 			(at 120.65 86.9446 0)
 			(effects
 				(font
@@ -114,7 +114,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ballin_gps.kicad_sch"
+		(property "Sheetfile" "compiled_ballin_gps.kicad_sch"
 			(at 60.96 192.3546 0)
 			(effects
 				(font
@@ -156,13 +156,21 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ballin_SD_Card.kicad_sch"
+		(property "Sheetfile" "compiled_ballin_SD_Card.kicad_sch"
 			(at 179.07 86.9446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 179.07 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(instances
@@ -198,7 +206,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ballin_power.kicad_sch"
+		(property "Sheetfile" "compiled_ballin_power.kicad_sch"
 			(at 60.96 144.0946 0)
 			(effects
 				(font
@@ -240,7 +248,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ballin_connectors.kicad_sch"
+		(property "Sheetfile" "compiled_ballin_connectors.kicad_sch"
 			(at 120.65 144.0946 0)
 			(effects
 				(font
@@ -282,7 +290,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "ballin_IMU.kicad_sch"
+		(property "Sheetfile" "compiled_ballin_IMU.kicad_sch"
 			(at 179.07 144.0946 0)
 			(effects
 				(font

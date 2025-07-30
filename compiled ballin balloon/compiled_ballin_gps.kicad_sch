@@ -2949,7 +2949,7 @@
 			(uuid "f4e16a37-d5d1-41ed-90ac-51a4bbf5ca3f")
 		)
 		(instances
-			(project ""
+			(project "compiled ballin balloon"
 				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7226ebaf-ed52-4419-a446-35b574995e76"
 					(reference "R24")
 					(unit 1)
