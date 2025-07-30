@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Adafruit PA1010D Mini GPS-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit PA1010D Mini GPS-eagle-import.kicad_sym")(options "")(descr ""))
+)

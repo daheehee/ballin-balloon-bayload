@@ -1,0 +1,308 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "54ff40da-566e-4b08-aced-2230b7e9688d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 60.96 40.64)
+		(size 48.26 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09444bb4-40f2-4d88-b93e-6c1a62ca6ced")
+		(property "Sheetname" "Control"
+			(at 60.96 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ballin_control.kicad_sch"
+			(at 60.96 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "compiled ballin balloon"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 40.64)
+		(size 49.53 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4503edd3-8384-435c-96c5-cb636a5e6e21")
+		(property "Sheetname" "Communication"
+			(at 120.65 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ballin_communication.kicad_sch"
+			(at 120.65 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "compiled ballin balloon"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 149.86)
+		(size 48.26 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7226ebaf-ed52-4419-a446-35b574995e76")
+		(property "Sheetname" "gps"
+			(at 60.96 149.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ballin_gps.kicad_sch"
+			(at 60.96 192.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "compiled ballin balloon"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 40.64)
+		(size 49.53 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9221754b-e565-48f9-b643-0ef39605f56e")
+		(property "Sheetname" "SD card reader"
+			(at 179.07 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ballin_SD_Card.kicad_sch"
+			(at 179.07 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "compiled ballin balloon"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 100.33)
+		(size 48.26 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b507ac10-c5d6-4697-b362-17e8d360bd8d")
+		(property "Sheetname" "Power"
+			(at 60.96 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ballin_power.kicad_sch"
+			(at 60.96 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "compiled ballin balloon"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 100.33)
+		(size 50.8 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8274c00-b8ad-457b-b1fa-8b46324e1398")
+		(property "Sheetname" "Connectors"
+			(at 120.65 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ballin_connectors.kicad_sch"
+			(at 120.65 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "compiled ballin balloon"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 100.33)
+		(size 49.53 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd9a6934-9ed4-42ef-b5fc-bc3cf5bbd3bc")
+		(property "Sheetname" "IMU"
+			(at 179.07 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ballin_IMU.kicad_sch"
+			(at 179.07 144.0946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "compiled ballin balloon"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
