@@ -4,10 +4,6 @@
 	(generator_version "9.0")
 	(uuid "ba79988c-9099-4179-ac98-3e16afae3947")
 	(paper "A4")
-	(title_block
-		(title "Balloon Paylaod ")
-		(date "2025-07-29")
-	)
 	(lib_symbols
 		(symbol "Adafruit_RFM96W_LoRa_Radio_3073:3073"
 			(pin_names
@@ -4833,7 +4829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 195.326 103.124 90)
 			(effects
 				(font
@@ -5056,7 +5052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53047-1010_1x10_P1.25mm_Vertical"
+		(property "Footprint" ""
 			(at 128.27 120.65 0)
 			(effects
 				(font
@@ -5237,7 +5233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53047-0610_1x06_P1.25mm_Vertical"
+		(property "Footprint" ""
 			(at 172.72 125.73 0)
 			(effects
 				(font
@@ -5728,7 +5724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53047-1010_1x10_P1.25mm_Vertical"
+		(property "Footprint" ""
 			(at 91.44 120.65 0)
 			(effects
 				(font
@@ -6331,7 +6327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53047-0610_1x06_P1.25mm_Vertical"
+		(property "Footprint" ""
 			(at 153.67 125.73 0)
 			(effects
 				(font
@@ -6412,7 +6408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" ""
 			(at 199.136 100.584 90)
 			(effects
 				(font
@@ -6769,7 +6765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints-extra:CONN_532610001-SD_10_MOL"
+		(property "Footprint" ""
 			(at 72.39 120.65 0)
 			(effects
 				(font
