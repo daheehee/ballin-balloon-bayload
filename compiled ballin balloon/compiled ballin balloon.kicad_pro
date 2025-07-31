@@ -604,32 +604,12 @@
       "Root"
     ],
     [
-      "09444bb4-40f2-4d88-b93e-6c1a62ca6ced",
-      "Control"
+      "36bd4e21-ee29-4ead-a843-3acfca4a4e45",
+      "Inside"
     ],
     [
-      "b507ac10-c5d6-4697-b362-17e8d360bd8d",
-      "Power"
-    ],
-    [
-      "4503edd3-8384-435c-96c5-cb636a5e6e21",
-      "Communication"
-    ],
-    [
-      "fd9a6934-9ed4-42ef-b5fc-bc3cf5bbd3bc",
-      "IMU"
-    ],
-    [
-      "c8274c00-b8ad-457b-b1fa-8b46324e1398",
-      "Connectors"
-    ],
-    [
-      "9221754b-e565-48f9-b643-0ef39605f56e",
-      "SD card reader"
-    ],
-    [
-      "7226ebaf-ed52-4419-a446-35b574995e76",
-      "gps"
+      "ac3d62a7-ca2a-4ad9-961c-b81e7cdb877f",
+      "Outside"
     ]
   ],
   "text_variables": {}
