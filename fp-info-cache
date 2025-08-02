@@ -1,4 +1,4 @@
-26435048734011030
+26429787556994766
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105601,24 +105601,3 @@ Varistor VF
 0
 2
 2
-footpriont
-Adafruit_RFM96W_LoRa_Radio_3073
-
-
-0
-14
-14
-footpriont
-MODULE_MICROSD_SPI_OR_SDIO_CARD
-
-
-0
-11
-11
-footpriont
-adafruit_IMU_2472
-
-
-0
-14
-14
