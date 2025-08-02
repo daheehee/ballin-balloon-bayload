@@ -7022,7 +7022,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 33.02 124.46 0)
 			(effects
 				(font
@@ -7152,7 +7152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
 			(at 33.02 116.84 0)
 			(effects
 				(font
