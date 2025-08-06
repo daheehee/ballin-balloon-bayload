@@ -1,4 +1,4 @@
-25626983449459058
+25637507939715992
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102683,6 +102683,20 @@ GPS
 20
 20
 ballin footprint library
+GPS PA1616
+
+5186 
+0
+20
+20
+ballin footprint library
+LTC1628IG
+
+LTC1628IG-TRPBF 
+0
+28
+28
+ballin footprint library
 MODULE_ESP32-PICO-MINI-02U-N8R2
 
 
@@ -102703,3 +102717,31 @@ SC32S-7PF20PPM
 0
 2
 2
+ballinBreakoutPrints
+CONN_532610001-SD_10_MOL
+
+532611071 
+0
+12
+12
+footpriont
+Adafruit_RFM96W_LoRa_Radio_3073
+
+
+0
+14
+14
+footpriont
+MODULE_MICROSD_SPI_OR_SDIO_CARD
+
+
+0
+11
+11
+footpriont
+adafruit_IMU_2472
+
+
+0
+14
+14
