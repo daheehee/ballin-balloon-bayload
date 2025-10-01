@@ -1267,362 +1267,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:USB_B_Micro"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -5.08 11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "USB_B_Micro"
-				(at -5.08 8.89 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 3.81 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 3.81 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "USB Micro Type B connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector USB micro"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "USB*Micro*B*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "USB_B_Micro_0_1"
-				(rectangle
-					(start -5.08 -7.62)
-					(end 5.08 7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.699 5.842) (xy -4.699 5.588) (xy -4.445 4.826) (xy -4.445 4.572) (xy -1.651 4.572) (xy -1.651 4.826)
-						(xy -1.397 5.588) (xy -1.397 5.842) (xy -4.699 5.842)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.318 5.588) (xy -1.778 5.588) (xy -2.032 4.826) (xy -4.064 4.826) (xy -4.318 5.588)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center -3.81 2.159)
-					(radius 0.635)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.175 2.159) (xy -2.54 2.159) (xy -1.27 3.429) (xy -0.635 3.429)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 2.159) (xy -1.905 2.159) (xy -1.27 0.889) (xy 0 0.889)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 2.159) (xy 0.635 2.159)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -0.635 3.429)
-					(radius 0.381)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -0.127 -7.62)
-					(end 0.127 -6.858)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 0.254 1.27)
-					(end -0.508 0.508)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 2.794) (xy 0.635 1.524) (xy 1.905 2.159) (xy 0.635 2.794)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 5.08 4.953)
-					(end 4.318 5.207)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.08 -0.127)
-					(end 4.318 0.127)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.08 -2.667)
-					(end 4.318 -2.413)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 5.08 -5.207)
-					(end 4.318 -4.953)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "USB_B_Micro_1_1"
-				(pin passive line
-					(at -2.54 -10.16 90)
-					(length 2.54)
-					(name "Shield"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 0 -10.16 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 7.62 5.08 180)
-					(length 2.54)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "D+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 7.62 -2.54 180)
-					(length 2.54)
-					(name "D-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -5.08 180)
-					(length 2.54)
-					(name "ID"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector_Generic_MountingPin:Conn_01x10_MountingPin"
 			(pin_names
 				(offset 1.016)
@@ -3580,6 +3224,151 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "externalLib:CON_JST_PH_2PIN"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "X"
+				(at -6.35 5.715 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -6.35 -5.08 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "Adafruit Feather M4 Express:JSTPH2"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "JST 2-Pin Right-Angle Connector\n\n• PH-Series - 4UConnector: 17311\n• SH-Series - 4UConnector: 07278"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CON_JST_PH_2PIN_1_0"
+				(polyline
+					(pts
+						(xy -6.35 5.08) (xy -6.35 -2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -6.35 -2.54) (xy 1.27 -2.54)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 5.08) (xy -6.35 5.08)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive inverted
+					(at -2.54 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive inverted
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "externalLibrary:+3V3"
 			(power)
 			(pin_numbers
@@ -4259,12 +4048,6 @@
 		(color 0 0 0 0)
 		(uuid "8aea37b3-5f29-44cb-b407-de4e201d5dfa")
 	)
-	(junction
-		(at 194.31 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "be82a1a3-f482-4ffa-a345-ea0c96012883")
-	)
 	(no_connect
 		(at 177.8 133.35)
 		(uuid "17d255f5-bcf7-4f0e-a11d-7fda41b3c800")
@@ -4296,10 +4079,6 @@
 	(no_connect
 		(at 96.52 55.88)
 		(uuid "68c59675-320e-448d-944f-18cc748b58ac")
-	)
-	(no_connect
-		(at 201.93 43.18)
-		(uuid "6920e768-5970-43eb-802a-4a995f59ae6e")
 	)
 	(no_connect
 		(at 67.31 130.81)
@@ -4338,10 +4117,6 @@
 		(uuid "93debadc-f024-467f-b78b-022f5b2c2f31")
 	)
 	(no_connect
-		(at 201.93 40.64)
-		(uuid "943f894a-1457-48f6-8f8e-9346697cec81")
-	)
-	(no_connect
 		(at 96.52 58.42)
 		(uuid "9cbfb55c-1769-4d06-b0e5-0e04a5e6415e")
 	)
@@ -4366,30 +4141,12 @@
 		(uuid "de01f68e-d2c0-4be9-9999-523d0f2c6e26")
 	)
 	(no_connect
-		(at 201.93 45.72)
-		(uuid "e42ea05a-094b-48cd-9f5e-fd3ea4a36d1d")
-	)
-	(no_connect
-		(at 158.75 123.19)
-		(uuid "e4f6f640-90ee-41ba-bec1-8f2bd19b2b24")
-	)
-	(no_connect
 		(at 179.07 66.04)
 		(uuid "e9091726-253b-4a8b-a2ed-c9686e35066b")
 	)
 	(no_connect
 		(at 52.07 52.07)
 		(uuid "f667d835-976a-491f-8079-887b67a2ad71")
-	)
-	(wire
-		(pts
-			(xy 194.31 55.88) (xy 194.31 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "022d83bf-25d5-475d-975a-24465eefeb6e")
 	)
 	(wire
 		(pts
@@ -4423,13 +4180,13 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 50.8) (xy 191.77 53.34)
+			(xy 200.66 35.56) (xy 210.82 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "18e064d3-7347-4bb1-85cf-60726dbb8306")
+		(uuid "148f2a2d-8112-45d9-a22b-184cff7b8b89")
 	)
 	(wire
 		(pts
@@ -4520,16 +4277,6 @@
 			(type default)
 		)
 		(uuid "45474134-f2a0-4046-b8d1-77fb797d52a5")
-	)
-	(wire
-		(pts
-			(xy 205.74 35.56) (xy 201.93 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49f90e50-d350-4440-9034-5c87622e47c4")
 	)
 	(wire
 		(pts
@@ -4643,6 +4390,26 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 33.02) (xy 210.82 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "956bf6fd-2ec5-4c50-b9ad-3dc94ee6cd8c")
+	)
+	(wire
+		(pts
+			(xy 167.64 123.19) (xy 158.75 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97c36a35-0b36-4c09-9e1b-cd37b8d24fa3")
+	)
+	(wire
+		(pts
 			(xy 198.12 104.14) (xy 215.9 104.14)
 		)
 		(stroke
@@ -4743,6 +4510,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 35.56) (xy 210.82 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcb28b25-3297-45f3-9e37-df4608db51ac")
+	)
+	(wire
+		(pts
 			(xy 231.14 43.18) (xy 231.14 53.34)
 		)
 		(stroke
@@ -4763,23 +4540,13 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 53.34) (xy 194.31 50.8)
+			(xy 200.66 33.02) (xy 210.82 33.02)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c9a424be-c89d-4ef9-b736-b8e7bd7892fb")
-	)
-	(wire
-		(pts
-			(xy 191.77 53.34) (xy 194.31 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb86ab83-f759-4be5-9acc-820c167c196f")
+		(uuid "ce2c45bf-6dcb-4283-9d24-478916060954")
 	)
 	(wire
 		(pts
@@ -5276,6 +5043,76 @@
 		)
 	)
 	(symbol
+		(lib_id "externalLib:CON_JST_PH_2PIN")
+		(at 198.12 33.02 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19f25613-0940-411a-8bd9-719fe3171737")
+		(property "Reference" "X1"
+			(at 195.58 36.195 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 195.58 32.385 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "JST 2-Pin Right-Angle Connector\n\n• PH-Series - 4UConnector: 17311\n• SH-Series - 4UConnector: 07278"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "11759bce-1480-49db-8f71-1b24b27093ef")
+		)
+		(pin "1"
+			(uuid "dd574f40-343d-4d3e-8015-c28421d47fb3")
+		)
+		(instances
+			(project ""
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
+					(reference "X1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "adafruit_IMU_2472:2472")
 		(at 163.83 63.5 0)
 		(unit 1)
@@ -5480,16 +5317,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 194.31 55.88 0)
+		(at 210.82 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "2b200a75-5f90-468c-9c8a-4650dd0671f5")
-		(property "Reference" "#PWR015"
-			(at 194.31 62.23 0)
+		(uuid "26e89852-178d-409a-a6f0-2478fbcc9a62")
+		(property "Reference" "#PWR016"
+			(at 210.82 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5498,7 +5335,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 194.31 60.96 0)
+			(at 210.82 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5506,7 +5343,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 55.88 0)
+			(at 210.82 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5515,7 +5352,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 55.88 0)
+			(at 210.82 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5524,7 +5361,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 55.88 0)
+			(at 210.82 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5533,12 +5370,79 @@
 			)
 		)
 		(pin "1"
-			(uuid "aa68ac8d-f425-4ab6-a70d-e6c18fae6f25")
+			(uuid "67baec12-76b4-459a-b7d0-6310160d5c6a")
 		)
 		(instances
-			(project ""
+			(project "ballin balloon bayload"
 				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
-					(reference "#PWR015")
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 210.82 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2b943d5f-fdf7-44e9-87b2-d0bc61185f0f")
+		(property "Reference" "#PWR017"
+			(at 210.82 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 213.36 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 210.82 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dffbbc35-76a0-419f-bd5a-d461bf36a52b")
+		)
+		(instances
+			(project "ballin balloon bayload"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -5571,7 +5475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 195.326 103.124 90)
 			(effects
 				(font
@@ -5951,6 +5855,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 33.02 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3dca89ba-ebe1-45b3-a520-556b8cb709bb")
+		(property "Reference" "H4"
+			(at 35.56 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 35.56 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ballin balloon bayload"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
 		(at 172.72 125.73 0)
 		(unit 1)
@@ -6090,6 +6058,72 @@
 			(project "ballin balloon bayload"
 				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
 					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "externalLibrary:GND")
+		(at 167.64 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "58cbbb52-266a-407a-858c-b9ab2d98b6c4")
+		(property "Reference" "#PWR015"
+			(at 167.64 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 167.64 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 167.64 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "705f4e30-3474-485b-9033-3475fe5d41b1")
+		)
+		(instances
+			(project "ballin balloon bayload"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -7150,7 +7184,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 199.136 100.584 90)
 			(effects
 				(font
@@ -7415,86 +7449,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:USB_B_Micro")
-		(at 194.31 40.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9538785b-f427-4967-b7b6-068a551e8023")
-		(property "Reference" "J6"
-			(at 194.31 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB_B_Micro"
-			(at 194.31 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_USB:USB_Micro-AB_Molex_47590-0001"
-			(at 198.12 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 198.12 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB Micro Type B connector"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "6"
-			(uuid "de9af15e-f5a3-4357-8b23-ff8e5cef60d7")
-		)
-		(pin "5"
-			(uuid "5b21dffa-ba55-46c2-b17c-64da6cab06cc")
-		)
-		(pin "1"
-			(uuid "97f676d6-eb7a-4d86-ad57-66b0115f1d02")
-		)
-		(pin "3"
-			(uuid "4f7e0e8d-c2d2-4fae-b725-cee9493ed30a")
-		)
-		(pin "2"
-			(uuid "7b089508-dfec-410b-aada-d23e5a1ed6e2")
-		)
-		(pin "4"
-			(uuid "b3f64f97-b4bb-41dd-af5c-2b260e55644e")
-		)
-		(instances
-			(project ""
-				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "externalLibrary:+3V3")
 		(at 194.31 95.25 0)
 		(unit 1)
@@ -7555,6 +7509,70 @@
 			(project ""
 				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 33.02 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a4b4ab75-0615-45ec-b959-38f22d8bc8cc")
+		(property "Reference" "H5"
+			(at 35.56 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 35.56 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
+			(at 33.02 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 33.02 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "ballin balloon bayload"
+				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -7943,72 +7961,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 205.74 35.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d42c20c2-7f90-482e-b055-81f9561772f4")
-		(property "Reference" "#PWR016"
-			(at 205.74 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 205.74 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 205.74 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ea52b61f-902e-4fcd-8b6b-a30ffc0e6200")
-		)
-		(instances
-			(project "ballin balloon bayload"
-				(path "/54ff40da-566e-4b08-aced-2230b7e9688d/7fbf48b3-2680-4e07-bcbc-751342c8124f"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "externalLibrary:MountingHole")
 		(at 33.02 116.84 0)
 		(unit 1)
@@ -8080,7 +8032,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f3d6017c-e9ed-4549-bea3-3ea2e00af757")
 		(property "Reference" "U2"
 			(at 111.76 43.18 0)
@@ -8099,7 +8050,7 @@
 			)
 		)
 		(property "Footprint" "footpriont:Adafruit_RFM96W_LoRa_Radio_3073"
-			(at 111.76 63.5 0)
+			(at 111.76 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)

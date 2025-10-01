@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e6a1c73e-b7c6-469c-a61c-399544014747")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 118.11 85.09)
+		(size 22.86 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "42b25f6d-fa72-4b03-89bf-6af7eeb7c554")
+		(property "Sheetname" "eletrocardiogram"
+			(at 118.11 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eletrocardiogram.kicad_sch"
+			(at 118.11 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shirt"
+				(path "/e6a1c73e-b7c6-469c-a61c-399544014747"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 152.4 97.79)
+		(size 21.59 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5fbcbeb6-80d6-49ac-914b-e8aec374f420")
+		(property "Sheetname" "taser"
+			(at 152.4 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "taser.kicad_sch"
+			(at 152.4 142.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shirt"
+				(path "/e6a1c73e-b7c6-469c-a61c-399544014747"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 195.58 96.52)
+		(size 27.94 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "83fb3d1d-74c9-4e8f-8ffd-f5ff43be1b83")
+		(property "Sheetname" "piano"
+			(at 195.58 95.8084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "piano.kicad_sch"
+			(at 195.58 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shirt"
+				(path "/e6a1c73e-b7c6-469c-a61c-399544014747"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 85.09)
+		(size 21.59 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a02feadc-514d-460b-b49a-e2d40c4d661a")
+		(property "Sheetname" "heart"
+			(at 90.17 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 90.17 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shirt"
+				(path "/e6a1c73e-b7c6-469c-a61c-399544014747"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 217.17 66.04)
+		(size 25.4 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aff2cbba-a54a-4143-af99-825e939a984c")
+		(property "Sheetname" "motor"
+			(at 217.17 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor.kicad_sch"
+			(at 217.17 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shirt"
+				(path "/e6a1c73e-b7c6-469c-a61c-399544014747"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 236.22 95.25)
+		(size 31.75 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eecdfb5c-2d78-4c0f-b808-039d529209e8")
+		(property "Sheetname" "tetris"
+			(at 236.22 94.5384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "tetris.kicad_sch"
+			(at 236.22 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shirt"
+				(path "/e6a1c73e-b7c6-469c-a61c-399544014747"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
